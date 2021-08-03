@@ -1,4 +1,0 @@
-[submodule "PublicUtilsSrc"]
-	path = PublicUtilsSrc
-	url = git@github.com:qjajdccyqt/PublicUtilsSrc.git
-	branch = master
